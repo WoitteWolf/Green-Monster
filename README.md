@@ -17,6 +17,8 @@ This repository is designed to be a collection of resources to aid the weary sec
    ### Categorization and possession of data
    
  ## Security Architecture and Engineering
+  ### Kubernetes
+  - [ ] [The kubernetes iceberg](https://asankov.dev/blog/2022/05/15/demystifying-the-kubernetes-iceberg-part-1/)
   ### Ideas for security skills of data systems
   ### Cryptography
   ### Ability to lessen weaknesses in security architects, plans, mobile apps, web-based apps, and entrenched systems
