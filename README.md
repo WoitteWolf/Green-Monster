@@ -54,3 +54,37 @@ This repository is designed to be a collection of resources to aid the weary sec
   ### Java and JavaScript
   ### TypeScript
   ### Ruby
+  
+ ## Unsorted
+  ### Tools
+  - [ ] Dehashed - View leaked creds
+  - [ ] SecurityTrails - DNS data
+  - [ ] DorkSearch - Google dorking
+  - [ ] ExploitDB - Archive of various exploits
+  - [ ] ZoomEye - Gather info on targets
+  - [ ] Pulsedive - Threat intel searching
+  - [ ] GrayHatWarefare - Search public S3 buckets
+  - [ ] PolySwarm - Scan files and urls for threats
+  - [ ] VirusTotal - Scan files, urls, and hashes for threats
+  - [ ] Fofa - Threat intelligence searching
+  - [ ] LeakIX - Publicly indexed information
+  - [ ] DNSDumpster - Search DNS records
+  - [ ] FullHunt - Search and discover attack surfaces
+  - [ ] AlienVault - Threat intel feed
+  - [ ] Onyphe - Cyber-threat intel data
+  - [ ] Grep App - Search git repos
+  - [ ] URL Scan - Scan and analyze websites
+  - [ ] Vulners - Search vulns
+  - [ ] WayBackMachine - View website deleted content
+  - [ ] Shodan - Search devices connected to the internet
+  - [ ] Netlas - Search and monitor connected assets
+  - [ ] CRT sh - Search for certs that have been logged by CT
+  - [ ] Wigle - Database of wireless networks and stats
+  - [ ] Binary Edge - Threat intel
+  - [ ] GreyNoise - Devices connected to the internet
+  - [ ] Hunter - Search for email addresses belonging to a website
+  - [ ] Censys - Assessing an attack surface for internet connected devices
+  - [ ] IntelligenceX - Search Tor, I2p, data leaks, domains, and emails
+  - [ ] Packet Storm Security - Browse latest vulns and exploits
+  - [ ] SearchCode - 75 billion lines of code from 40 million projects
+  
