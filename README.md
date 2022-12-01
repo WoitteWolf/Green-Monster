@@ -57,8 +57,19 @@ This repository is designed to be a collection of resources to aid the weary sec
   
  ## Unsorted
   ### Tools
-  - [ ] Dehashed - View leaked creds
-  - [ ] SecurityTrails - DNS data
+  - [ ] [Dehashed](https://dehashed.com) - Leaked creds, DNS data
+    - [ ] Summary: Searches databases for various leaked info and dns info. Good for personal monitoring but costs for anything else 
+     - [ ] Paid service with some free features
+       - [ ] 15 a month or 180 a year 
+     - [ ] Free
+       - [ ] Create up to 10 monitoring rules (Name, email, phone)
+       - [ ] Deliver to up to 2 channels for when a rule is triggered (Email or SMS)
+     - [ ] Paid
+       - [ ] Api
+       - [ ] Deep Whois data. 4 bucks for 100 searches
+  - [ ] [SecurityTrails](https://securitytrails.com/app/account) - DNS data
+    - [ ] Summary: Great resource for DNS data. A records and host, MX, NS, SOA, TXT, CNAME, and subdomains
+      - [ ] Free and paid. Paid unlocks pretty much unlimited searches per month and API. Free is 50 searches a month 
   - [ ] DorkSearch - Google dorking
   - [ ] ExploitDB - Archive of various exploits
   - [ ] ZoomEye - Gather info on targets
