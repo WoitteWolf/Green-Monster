@@ -51,3 +51,6 @@ This repository is designed to be a collection of resources to aid the weary sec
  ## Software Development Security
   ### Examining hazard evaluation
   ### Detecting weaknesses in source code
+  ### Java and JavaScript
+  ### TypeScript
+  ### Ruby
