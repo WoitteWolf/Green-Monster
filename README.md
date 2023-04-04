@@ -7,7 +7,7 @@ This repository is designed to be a collection of resources to aid the weary sec
    ### Creating a scope, proposal, and strategy for enterprise continuity requirements    
    ### Risk-centered concepts
    ### Compliance requirements
-   ### Threat modeling and methods
+   ### [Threat modeling and methods](https://github.com/WoitteWolf/Green-Monster/wiki/Threat-Modeling)
    
  ## Asset Security
    ### Managing requirements
