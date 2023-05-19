@@ -100,4 +100,4 @@ This repository is designed to be a collection of resources to aid the weary sec
   - [ ] SearchCode - 75 billion lines of code from 40 million projects
   - [ ] [ShouldICallBack](https://should-i-call-back.org/) - Skiptracing on phone numbers
   - [ ] [VirusTotal](https://www.virustotal.com/gui/home/upload) - Primary file and url scanning tool.
-  - [ ] [CheckPhish](https://checkphish.ai)) - Malicious site validation. Provides live view for visual aid where virustotal does not
+  - [ ] [CheckPhish](https://checkphish.ai) - Malicious site validation. Provides live view for visual aid where virustotal does not
