@@ -101,3 +101,4 @@ This repository is designed to be a collection of resources to aid the weary sec
   - [ ] [ShouldICallBack](https://should-i-call-back.org/) - Skiptracing on phone numbers
   - [ ] [VirusTotal](https://www.virustotal.com/gui/home/upload) - Primary file and url scanning tool.
   - [ ] [CheckPhish](https://checkphish.ai) - Malicious site validation. Provides live view for visual aid where virustotal does not
+  - [ ] [Intelx](https://intelx.io) - Find leaked info on websites
